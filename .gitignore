@@ -2,6 +2,8 @@
 *.pyc
 *~
 __pycache__
+message/__pycache__
+chatmatic/__pycache__
 
 # Env
 .env
